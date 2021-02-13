@@ -7,11 +7,11 @@ my:
   list:
     value: fruit,vegetable,water
 
-dbIncredent: "{connectionString: 'http://localhost:8090', userName:'xaxa', password:'xoxo'}"
+dbIncredent: "{connectionString: 'http://localhost:8070', userName:'yaya', password:'yoyo'}"
 
 db:
-  connection: "{connectionString: 'http://localhost:8082', userName:'toto', password:'tata'}"
-  host: 124.0.0.1
+  connection: "{connectionString: 'http://localhost:8192', userName:'wowo', password:'wawa'}"
+  host: 120.0.0.1
   port: 2000
 
 
